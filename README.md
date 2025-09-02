@@ -24,7 +24,7 @@ Este script em lote (`.bat`) foi desenvolvido para **Windows** e permite verific
 ---
 
 ## ▶️ Como usar
-1. Salve o código abaixo como `rastreamento_maquinas.bat`.  
+1. Salve o código abaixo como `rastreador de host.bat`.  
 2. Execute o script (`duplo clique` ou via `cmd`).  
 3. Informe o **host/IP** da máquina que deseja verificar.  
 
